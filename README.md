@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvampattanaik&label=Profile%20views&color=0e75b6&style=flat" alt="suvampattanaik" /> </p>
 
-- 🌱 I’m currently learning **React and ML**
+- 🌱 I’m currently learning **React JS**
 - 🤙Looking to contribute in web- development projects..
 
 
